@@ -2,7 +2,6 @@ html, body {
     background-color: #FFFFFF;
     font-family: 'Open Sans', sans-serif;
     font-weight: 600;
-    font-size: 1em;
     line-height: 1.5em;
 }
 
@@ -14,6 +13,12 @@ main {
 img {
     width: 100%;
     height: auto;
+}
+
+h1 {
+    text-align: center;
+    font-size: 3em;
+    line-height: 2em;
 }
 
 p {
